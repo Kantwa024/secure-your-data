@@ -1,0 +1,30 @@
+.containerf {
+	background-color: #fff;
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 350px;
+	max-width: 100%;
+    min-height: 280px;
+    text-align: center;
+}
+#h1 {
+    font-weight: bold;
+    margin-top: 10%;
+    font-size: 30px;
+}
+
+#input{
+    margin-top: 7%;
+    align-self: center;
+    max-width: 250px;
+    text-align:start;
+    justify-self: center;
+}
+
+#btn{
+    margin-top: 15%;
+}
+

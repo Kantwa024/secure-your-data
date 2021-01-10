@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+.right{
+    max-width: 400px;
+    min-width: 100px;
+    text-align: center;
+    background-color: #00ACEE;
+    color: white;
+    text-align: center;
+    float: right;
+    border-radius: 10px 10px 0px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.r{
+    padding-top: 20%;
+}
+
+
