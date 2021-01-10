@@ -10,7 +10,7 @@ import Chatroom from './componenets/Chat/Chatroom'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL} >
       <div className="App">
         <Route path="/" exact component={Authpage}/>
         <Route path="/forgot" exact component={Forgot}/>
